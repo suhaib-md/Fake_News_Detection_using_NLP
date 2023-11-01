@@ -25,6 +25,8 @@ The repository includes two datasets:
 Fake.csv: Contains fabricated news articles.
 True.csv: Contains legitimate news articles.
 
+link to the kaggle dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 Ensure the CSV files are located in the root directory of the project before running the code.
 
 Running the Code
